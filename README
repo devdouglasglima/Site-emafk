@@ -1,1 +1,42 @@
 
+# Site Escola Anne Frank 🏫
+
+Este repositório contém um projeto de site desenvolvido como parte dos estudos de programação do Douglas Lima. O site foi criado com o objetivo de praticar e aprender sobre HTML, CSS e JavaScript, e **não é um site oficial** da escola Anne Frank. 🚫
+
+## Descrição 📚
+
+O site foi desenvolvido para exibir informações e imagens relacionadas à Escola Anne Frank. Ele contém as seguintes seções:
+
+- **Início** 🏠: Apresentação da escola com um breve histórico sobre Anne Frank.
+- **Notícias** 📰: Seção que exibe algumas notícias relacionadas à escola.
+- **Fotos & Galeria** 📸: Apresentação de fotos organizadas em seções de projetos, como "Aulas Laboratório", "Outubro Rosa" e "Novembro Azul".
+- **Calendário Escolar** 📅: Link para acessar o calendário escolar.
+- **Contato** 📞: Informações de contato da escola, como Instagram, telefone e e-mail.
+
+## Tecnologias Usadas 💻
+
+- **HTML**: Estruturação do conteúdo.
+- **CSS**: Estilização do site, incluindo o layout responsivo.
+- **JavaScript**: Interatividade, como mostrar e esconder as imagens nas galerias.
+
+O código está organizado para facilitar a personalização e a adição de novos projetos e informações.
+
+## Acesse o Site 🌐
+
+Você pode visualizar o site online através do link abaixo:
+
+[Site da Escola Anne Frank - GitHub Pages](https://devdouglasglima.github.io/Site-emafk/)
+
+## Como Usar ⚙️
+
+1. Clone o repositório ou baixe o código.
+2. Abra o arquivo `index.html` em seu navegador.
+3. Explore as diversas seções do site e aproveite o conteúdo.
+
+## Observação ⚠️
+
+Este site foi feito para fins educacionais e de estudo, como parte do aprendizado de desenvolvimento web. **Não tem qualquer vínculo oficial com a Escola Anne Frank.**
+
+## Licença 📜
+
+Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
